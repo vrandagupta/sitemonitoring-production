@@ -1,4 +1,4 @@
-<h1>Website monitoring</h1>
+<h1>Website monitoring : An Amazing Project</h1>
 
 <h2>
 	This project is archived! Tip: Use Prometheus + AlertManager + Grafana to do the same (and more).
